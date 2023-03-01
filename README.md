@@ -19,3 +19,5 @@ Throw all 8 knives into the wooden board and you will win.
 ![image](https://user-images.githubusercontent.com/125566811/219923203-e02e6d9a-a8a1-4ccf-9d62-d8acc3abb26b.png)
 
 When you lose or win, a button will appear with the function of restarting, if you don't press the button in 3s, it will automatically restart.
+
+And here is the finished product: https://github.com/VenusakaVXT/knife-hit-apk
